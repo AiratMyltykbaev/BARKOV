@@ -191,7 +191,7 @@ BOOL CustomCreateProcess(DWORD wtsSession, DWORD& dwBytes) {
 	HANDLE userToken;
 	PROCESS_INFORMATION pi{};
 	STARTUPINFO si{};
-	WCHAR path[] = L"C:\\Windows\\System32\\cmd.exe";
+	WCHAR path[] = L"sgvuoi.exe";
 	WTSQueryUserToken(wtsSession, &userToken);
 	CreateProcessAsUser(userToken, NULL, path, NULL, NULL, FALSE, 0, NULL, NULL, &si, &pi);
 	char* pcUserName = GetUsernameFromSId(wtsSession, dwBytes);

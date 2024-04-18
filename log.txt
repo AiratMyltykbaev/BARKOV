@@ -13,3 +13,102 @@ Service is running. There are no problems on your PC.
  is logging off
 Pipi is logging in
 Application pId 25676 have been started by user Pipi in session 10 at 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 15596 have been started by user airat in session 3 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 2636 have been started by user airat in session 3 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Pipi is logging in
+Application pId 12056 have been started by user Pipi in session 4 at 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 25132 have been started by user airat in session 3 at 
+Application pId 13992 have been started by user Pipi in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 27388 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 6464 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 18232 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 17344 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 11784 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 13952 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 12840 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 19500 have been started by user airat in session 4 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 14540 have been started by user airat in session 1 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
+Service Starting at 
+Service have been Started at 
+Application pId 11004 have been started by user airat in session 1 at 
+Service Initialization complete at 
+Service begins to performing
+Service is running. There are no problems on your PC. 
+Service is running. There are no problems on your PC. 
+Service have been Stopped at 
